@@ -1,5 +1,13 @@
 # BM & LO Productivity MIS Dashboard
 
+## Repository structure
+
+```
+├── Dashboard.xlsx
+├── README.md
+├── Dashboard.png
+```
+
 ## Overview
 
 Interactive Excel MIS Dashboard developed for monitoring Loan Officer (LO) and Branch Manager (BM) productivity.
@@ -35,4 +43,4 @@ Interactive Excel MIS Dashboard developed for monitoring Loan Officer (LO) and B
 - Data Visualization
 
 
-![LO Productivity MIS Dashboard](assets/lo_productivity_dashboard.png)
+![LO Productivity MIS Dashboard](./Dashboard.png)
